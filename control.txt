@@ -1,0 +1,161 @@
+Begin Controller Settings
+Version: 65536
+
+*** Begin Interface
+Name: DirectInput
+Version: 65536
+
+--- End Interface (DirectInput)
+
+
+Begin Compatibility Settings
+Axis 0
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Axis 1
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Axis 2
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Axis 3
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Hat 0
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 0
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 1
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 2
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 3
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 4
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 5
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 6
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 7
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 8
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 9
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 10
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 11
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 12
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 13
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 14
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 15
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 16
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 17
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 18
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 19
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 20
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 21
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 22
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 23
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 24
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 25
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 26
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 27
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 28
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 29
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 30
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+Button 31
+  Interface: undefined
+  Device: undefined
+  Element: undefined
+End Compatibility Settings
+End Controller Settings
