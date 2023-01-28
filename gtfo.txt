@@ -1,0 +1,5 @@
+----------------------------------------------------------------
+Msg: setColorTable16 - Unable to lock back buffer!
+File: wddvmem.cpp line 701
+Time: Sat Jan 21 19:34:20 2023
+errno = 1 (No such file or directory)
